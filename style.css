@@ -55,6 +55,16 @@
     font-family: "Raleway", sans-serif;
 }
 
+.primary-btn:hover{
+    background-color: rgb(234, 236, 226);
+    cursor: pointer;
+    color: black;
+    
+}
+
+
+
+
 
 /* action section desigm */
 
@@ -315,7 +325,7 @@
     border: 1px solid rgb(238, 238, 238);
 }
 
-.from_btn{
+.form_btn{
     padding: 19px 201px;
     font-weight: bold;
     font-size: 16px;
@@ -323,6 +333,7 @@
     font-family: "Raleway", sans-serif;
     background-color: #4E47FF;
     border-radius: 14px;
+    margin: 10px;
 }
 
 
@@ -352,15 +363,26 @@
 }
 .footer_pera{
     color: #8987A1;
-    margin-bottom: 2px;
+    
 }
-.fotter_last_part{
-    display: flex;
-    gap: 40px;
-    justify-content: center;
-    color: #8987A1;
+
+.footer_link{
+    text-decoration: none;
+    margin-right: 40px;
+     color: #8987A1;
     font-size: 30px;
+    
 }
 .footer_content{
     text-align: center;
 }
+
+.footer_link:hover{
+    color: black;
+}
+ 
+
+
+
+
+/* ------------------ The end--------------------- */
