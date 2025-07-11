@@ -59,7 +59,11 @@
     background-color: rgb(234, 236, 226);
     cursor: pointer;
     color: black;
+    transform: scale(1.05);
     
+}
+.primary-btn{
+   transition: transform 0.2s ease;
 }
 
 
@@ -272,7 +276,7 @@
     position: absolute;
     bottom: 0;
     left: 50%;
-    transform: translate(-50%);
+    transform: translateX(-50%);
     height: 365px;
     width: 840px;
     border-radius: 50px;
@@ -326,7 +330,7 @@
 }
 
 .form_btn{
-    padding: 19px 201px;
+    padding: 19px 40px;
     font-weight: bold;
     font-size: 16px;
     color: white;
