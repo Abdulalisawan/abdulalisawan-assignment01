@@ -41,7 +41,7 @@
 }
 .banner-head{
     font-family: "Raleway", sans-serif;
-    font-size: 65px
+    font-size: 65px;
     
 }
 .banner-btn{
@@ -253,7 +253,7 @@
 
    padding: 12px 36px;
    background-color: #4E47FF;
-   font-weight: 600px;
+   font-weight: 600;
    font-size: 16px;
    color: white;
    font-family: "Raleway", sans-serif;
