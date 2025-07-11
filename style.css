@@ -30,7 +30,7 @@
     width: 1440px;
     height: 698px;
     margin: 0px auto;
-    background-image: url(B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-image: url(images/Hero-bg.png);
 
 }
 .banner_box_content{
@@ -196,7 +196,7 @@
     height: 342px;
     width: 1140px;
     margin: 116px auto ;
-    text-align: center;
+   
 }
 .review_section_head{
     font-size: 42px;
